@@ -12,4 +12,8 @@ Matkul: Bahasa Pemrograman
 
 # Program Kode Tersebut
 
+![code k](https://github.com/user-attachments/assets/96ef7ef8-794a-424c-b1e7-a4cd0057b9b2)
+
+# Hasil Program Tersebut
+
 
